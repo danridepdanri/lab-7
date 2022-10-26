@@ -1,0 +1,6 @@
+﻿  ConsoleApplication3.cpp
+C:\Users\Admin\Desktop\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(51,54): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Admin\Desktop\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(65,49): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Admin\Desktop\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(79,49): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Admin\Desktop\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(93,49): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+  ConsoleApplication3.vcxproj -> C:\Users\Admin\Desktop\ConsoleApplication3\x64\Debug\ConsoleApplication3.exe
